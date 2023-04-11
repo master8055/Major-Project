@@ -27,7 +27,7 @@ newhotspots,newcoldspots= Background.trimlength(hot,cold)
 # Newhot/coldspots -- has only the sequence as string
 
 
-#tetramer analysis
+#------------tetramer analysis-------------#
 
 k=4
 st=[]
